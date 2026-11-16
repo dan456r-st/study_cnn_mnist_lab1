@@ -1,0 +1,1 @@
+# study_cnn_mnist_lab1
